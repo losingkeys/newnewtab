@@ -1,0 +1,2 @@
+* newnewtab
+  A new newtab page for chrome
